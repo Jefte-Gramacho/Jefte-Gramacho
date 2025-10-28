@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefte Gramacho</h1>
 <h3 align="center">A passionate IT Specialist and Software engineer from Brazil🇧🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefte-gramacho&label=Profile%20views&color=0e75b6&style=flat" alt="jefte-gramacho" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jefte-gramacho" alt="jefte-gramacho" /></a> </p>
-
 - 🌱 I’m currently learning **software engineering and new programming languages, learning something new every day**
 
 - 👯 I’m looking to collaborate on **new projects to learn and improve**
